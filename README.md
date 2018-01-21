@@ -22,10 +22,10 @@ SMAPI Core Methods
 
 The following calls are core to SMAPI and must be implemented by every music service:
 
-getExtendedMetadata
-getExtendedMetadataText
-getLastUpdate
-getMediaMetadata
-getMediaURI
-getMetadata
-search
+* getExtendedMetadata
+* getExtendedMetadataText
+* getLastUpdate
+* getMediaMetadata
+* getMediaURI
+* getMetadata
+* search
