@@ -10,3 +10,5 @@ http://musicpartners.sonos.com/node/289
 Streaming Guide
 http://musicpartners.sonos.com/node/465
 
+API Refrence
+http://musicpartners.sonos.com/node/71
