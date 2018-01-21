@@ -13,7 +13,8 @@ http://musicpartners.sonos.com/node/465
 API Refrence
 http://musicpartners.sonos.com/node/71
 
-
+Testing on Sonos
+http://musicpartners.sonos.com/node/134
 
 
 ---
